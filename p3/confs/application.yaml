@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/LaRosaMehdi/mla-rosa-IOT-app
     targetRevision: HEAD
-    path: p3/confs/dev
+    path: ./
   destination:
     server: https://kubernetes.default.svc
     namespace: dev
