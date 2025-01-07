@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/LaRosaMehdi/Inception-of-Things
+    repoURL: https://github.com/LaRosaMehdi/mla-rosa-IOT-app
     targetRevision: HEAD
     path: p3/confs/dev
   destination:
